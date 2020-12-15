@@ -4,11 +4,17 @@
       / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
      /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
  ----------------------------------------------------------------- 
+ # Fizzbuzz challenge # 
+ 
+ This is a repository for the fizzbuzz challenge from Makers academy. 
+ 
+ This was the first example of using test-driven development as a means of producing procedural code. 
+ Run any number in the fizzbuzz() menthod to see whether it returns fizz (divisible by 3), buzz(divisible by 5), fizzbuzz (divisible by 3 and 5) or the number. 
+ 
+ ## How to run ##
+ irb ./lib/fizzbuzz.rb
+ fizzbuzz(number to run)
+ 
+ 
 
 
-Hi there! Welcome to AWS Cloud9!
-
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
